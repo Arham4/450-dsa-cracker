@@ -154,44 +154,44 @@
 
 <summary><img id="sns" src="https://img.shields.io/badge/Searching_&_Sorting-36-red?style=for-the-badge"></summary>
 
-|       Topic:        | Problem                                                             | Solutions |
-| :-----------------: | ------------------------------------------------------------------- | :-------: |
-| Searching & Sorting | Find first and last positions of an element in a sorted array       |    <->    |
-| Searching & Sorting | Find a Fixed Point (Value equal to index) in a given array          |    <->    |
-| Searching & Sorting | Search in a rotated sorted array                                    |    <->    |
-| Searching & Sorting | square root of an integer                                           |    <->    |
-| Searching & Sorting | Maximum and minimum of an array using minimum number of comparisons |    <->    |
-| Searching & Sorting | Optimum location of point to minimize total distance                |    <->    |
-| Searching & Sorting | Find the repeating and the missing                                  |    <->    |
-| Searching & Sorting | find majority element                                               |    <->    |
-| Searching & Sorting | Searching in an array where adjacent differ by at most k            |    <->    |
-| Searching & Sorting | find a pair with a given difference                                 |    <->    |
-| Searching & Sorting | find four elements that sum to a given value                        |    <->    |
-| Searching & Sorting | maximum sum such that no 2 elements are adjacent                    |    <->    |
-| Searching & Sorting | Count triplet with sum smaller than a given value                   |    <->    |
-| Searching & Sorting | merge 2 sorted arrays                                               |    <->    |
-| Searching & Sorting | print all subarrays with 0 sum                                      |    <->    |
-| Searching & Sorting | Product array Puzzle                                                |    <->    |
-| Searching & Sorting | Sort array according to count of set bits                           |    <->    |
-| Searching & Sorting | minimum no. of swaps required to sort the array                     |    <->    |
-| Searching & Sorting | Bishu and Soldiers                                                  |    <->    |
-| Searching & Sorting | Rasta and Kheshtak                                                  |    <->    |
-| Searching & Sorting | Kth smallest number again                                           |    <->    |
-| Searching & Sorting | Find pivot element in a sorted array                                |    <->    |
-| Searching & Sorting | K-th Element of Two Sorted Arrays                                   |    <->    |
-| Searching & Sorting | Aggressive cows                                                     |    <->    |
-| Searching & Sorting | Book Allocation Problem                                             |    <->    |
-| Searching & Sorting | EKOSPOJ:                                                            |    <->    |
-| Searching & Sorting | Job Scheduling Algo                                                 |    <->    |
-| Searching & Sorting | Missing Number in AP                                                |    <->    |
-| Searching & Sorting | Smallest number with atleastn trailing zeroes infactorial           |    <->    |
-| Searching & Sorting | Painters Partition Problem:                                         |    <->    |
-| Searching & Sorting | ROTI-Prata SPOJ                                                     |    <->    |
-| Searching & Sorting | DoubleHelix SPOJ                                                    |    <->    |
-| Searching & Sorting | Subset Sums                                                         |    <->    |
-| Searching & Sorting | Findthe inversion count                                             |    <->    |
-| Searching & Sorting | Implement Merge-sort in-place                                       |    <->    |
-| Searching & Sorting | Partitioning and Sorting Arrays with Many Repeated Entries          |    <->    |
+|       Topic:        | Problem                                                                                                         |                                                                    Solutions                                                                     |
+| :-----------------: | --------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------: |
+| Searching & Sorting | Find first and last positions of an element in a sorted array                                                   |                                                                       <->                                                                        |
+| Searching & Sorting | Find a Fixed Point (Value equal to index) in a given array                                                      |                                                                       <->                                                                        |
+| Searching & Sorting | Search in a rotated sorted array                                                                                |                                                                       <->                                                                        |
+| Searching & Sorting | square root of an integer                                                                                       |                                                                       <->                                                                        |
+| Searching & Sorting | Maximum and minimum of an array using minimum number of comparisons                                             |                                                                       <->                                                                        |
+| Searching & Sorting | Optimum location of point to minimize total distance                                                            |                                                                       <->                                                                        |
+| Searching & Sorting | Find the repeating and the missing                                                                              |                                                                       <->                                                                        |
+| Searching & Sorting | find majority element                                                                                           |                                                                       <->                                                                        |
+| Searching & Sorting | Searching in an array where adjacent differ by at most k                                                        |                                                                       <->                                                                        |
+| Searching & Sorting | find a pair with a given difference                                                                             |                                                                       <->                                                                        |
+| Searching & Sorting | find four elements that sum to a given value                                                                    |                                                                       <->                                                                        |
+| Searching & Sorting | maximum sum such that no 2 elements are adjacent                                                                |                                                                       <->                                                                        |
+| Searching & Sorting | Count triplet with sum smaller than a given value                                                               |                                                                       <->                                                                        |
+| Searching & Sorting | merge 2 sorted arrays                                                                                           |                                                                       <->                                                                        |
+| Searching & Sorting | print all subarrays with 0 sum                                                                                  |                                                                       <->                                                                        |
+| Searching & Sorting | Product array Puzzle                                                                                            |                                                                       <->                                                                        |
+| Searching & Sorting | [Sort array according to count of set bits](https://www.geeksforgeeks.org/sort-array-according-count-set-bits/) | [![](https://img.shields.io/badge/Solution-green)](./04-Searching&Sorting/searching_and_sorting_17_Sort_array_according_to_count_of_set_bits.py) |
+| Searching & Sorting | minimum no. of swaps required to sort the array                                                                 |                                                                       <->                                                                        |
+| Searching & Sorting | Bishu and Soldiers                                                                                              |                                                                       <->                                                                        |
+| Searching & Sorting | Rasta and Kheshtak                                                                                              |                                                                       <->                                                                        |
+| Searching & Sorting | Kth smallest number again                                                                                       |                                                                       <->                                                                        |
+| Searching & Sorting | Find pivot element in a sorted array                                                                            |                                                                       <->                                                                        |
+| Searching & Sorting | K-th Element of Two Sorted Arrays                                                                               |                                                                       <->                                                                        |
+| Searching & Sorting | Aggressive cows                                                                                                 |                                                                       <->                                                                        |
+| Searching & Sorting | Book Allocation Problem                                                                                         |                                                                       <->                                                                        |
+| Searching & Sorting | EKOSPOJ:                                                                                                        |                                                                       <->                                                                        |
+| Searching & Sorting | Job Scheduling Algo                                                                                             |                                                                       <->                                                                        |
+| Searching & Sorting | Missing Number in AP                                                                                            |                                                                       <->                                                                        |
+| Searching & Sorting | Smallest number with atleastn trailing zeroes infactorial                                                       |                                                                       <->                                                                        |
+| Searching & Sorting | Painters Partition Problem:                                                                                     |                                                                       <->                                                                        |
+| Searching & Sorting | ROTI-Prata SPOJ                                                                                                 |                                                                       <->                                                                        |
+| Searching & Sorting | DoubleHelix SPOJ                                                                                                |                                                                       <->                                                                        |
+| Searching & Sorting | Subset Sums                                                                                                     |                                                                       <->                                                                        |
+| Searching & Sorting | Findthe inversion count                                                                                         |                                                                       <->                                                                        |
+| Searching & Sorting | Implement Merge-sort in-place                                                                                   |                                                                       <->                                                                        |
+| Searching & Sorting | Partitioning and Sorting Arrays with Many Repeated Entries                                                      |                                                                       <->                                                                        |
 
 </details>
 
