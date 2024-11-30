@@ -248,43 +248,43 @@
 
 <summary><img id="binarytrees" src="https://img.shields.io/badge/Binary_Trees-35-bluevoilet?style=for-the-badge"></summary>
 
-|    Topic:    | Problem                                                                      | Solutions |
-| :----------: | ---------------------------------------------------------------------------- | :-------: |
-| Binary Trees | level order traversal                                                        |    <->    |
-| Binary Trees | Reverse Level Order traversal                                                |    <->    |
-| Binary Trees | Height of a tree                                                             |    <->    |
-| Binary Trees | Diameter of a tree                                                           |    <->    |
-| Binary Trees | Mirror of a tree                                                             |    <->    |
-| Binary Trees | Inorder Traversal of a tree both using recursion and Iteration               |    <->    |
-| Binary Trees | Preorder Traversal of a tree both using recursion and Iteration              |    <->    |
-| Binary Trees | Postorder Traversal of a tree both using recursion and Iteration             |    <->    |
-| Binary Trees | Left View of a tree                                                          |    <->    |
-| Binary Trees | Right View of Tree                                                           |    <->    |
-| Binary Trees | Top View of a tree                                                           |    <->    |
-| Binary Trees | Bottom View of a tree                                                        |    <->    |
-| Binary Trees | Zig-Zag traversal of a binary tree                                           |    <->    |
-| Binary Trees | Check if a tree is balanced or not                                           |    <->    |
-| Binary Trees | Diagnol Traversal of a Binary tree                                           |    <->    |
-| Binary Trees | Boundary traversal of a Binary tree                                          |    <->    |
-| Binary Trees | Construct Binary Tree from String with Bracket Representation                |    <->    |
-| Binary Trees | Convert Binary tree into Doubly Linked List                                  |    <->    |
-| Binary Trees | Convert Binary tree into Sum tree                                            |    <->    |
-| Binary Trees | Construct Binary tree from Inorder and preorder traversal                    |    <->    |
-| Binary Trees | Find minimum swaps required to convert a Binary tree into BST                |    <->    |
-| Binary Trees | Check if Binary tree is Sum tree or not                                      |    <->    |
-| Binary Trees | Check if all leaf nodes are at same level or not                             |    <->    |
-| Binary Trees | Check if a Binary Tree contains duplicate subtrees of size 2 or more [ IMP ] |    <->    |
-| Binary Trees | Check if 2 trees are mirror or not                                           |    <->    |
-| Binary Trees | Sum of Nodes on the Longest path from root to leaf node                      |    <->    |
-| Binary Trees | Check if given graph is tree or not. [ IMP ]                                 |    <->    |
-| Binary Trees | Find Largest subtree sum in a tree                                           |    <->    |
-| Binary Trees | Maximum Sum of nodes in Binary tree such that no two are adjacent            |    <->    |
-| Binary Trees | Print all "K" Sum paths in a Binary tree                                     |    <->    |
-| Binary Trees | Find LCA in a Binary tree                                                    |    <->    |
-| Binary Trees | Find distance between 2 nodes in a Binary tree                               |    <->    |
-| Binary Trees | Kth Ancestor of node in a Binary tree                                        |    <->    |
-| Binary Trees | Find all Duplicate subtrees in a Binary tree [ IMP ]                         |    <->    |
-| Binary Trees | Tree Isomorphism Problem                                                     |    <->    |
+|    Topic:    | Problem                                                                           |                                                 Solutions                                                  |
+| :----------: | --------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------: |
+| Binary Trees | level order traversal                                                             |                                                    <->                                                     |
+| Binary Trees | Reverse Level Order traversal                                                     |                                                    <->                                                     |
+| Binary Trees | Height of a tree                                                                  |                                                    <->                                                     |
+| Binary Trees | Diameter of a tree                                                                |                                                    <->                                                     |
+| Binary Trees | Mirror of a tree                                                                  |                                                    <->                                                     |
+| Binary Trees | Inorder Traversal of a tree both using recursion and Iteration                    |                                                    <->                                                     |
+| Binary Trees | Preorder Traversal of a tree both using recursion and Iteration                   |                                                    <->                                                     |
+| Binary Trees | Postorder Traversal of a tree both using recursion and Iteration                  |                                                    <->                                                     |
+| Binary Trees | [Left View of a tree](https://www.geeksforgeeks.org/print-left-view-binary-tree/) | [![](https://img.shields.io/badge/Solution-green)](./06-BinaryTrees/binarytrees_09_Left_View_of_a_tree.py) |
+| Binary Trees | Right View of Tree                                                                |                                                    <->                                                     |
+| Binary Trees | Top View of a tree                                                                |                                                    <->                                                     |
+| Binary Trees | Bottom View of a tree                                                             |                                                    <->                                                     |
+| Binary Trees | Zig-Zag traversal of a binary tree                                                |                                                    <->                                                     |
+| Binary Trees | Check if a tree is balanced or not                                                |                                                    <->                                                     |
+| Binary Trees | Diagnol Traversal of a Binary tree                                                |                                                    <->                                                     |
+| Binary Trees | Boundary traversal of a Binary tree                                               |                                                    <->                                                     |
+| Binary Trees | Construct Binary Tree from String with Bracket Representation                     |                                                    <->                                                     |
+| Binary Trees | Convert Binary tree into Doubly Linked List                                       |                                                    <->                                                     |
+| Binary Trees | Convert Binary tree into Sum tree                                                 |                                                    <->                                                     |
+| Binary Trees | Construct Binary tree from Inorder and preorder traversal                         |                                                    <->                                                     |
+| Binary Trees | Find minimum swaps required to convert a Binary tree into BST                     |                                                    <->                                                     |
+| Binary Trees | Check if Binary tree is Sum tree or not                                           |                                                    <->                                                     |
+| Binary Trees | Check if all leaf nodes are at same level or not                                  |                                                    <->                                                     |
+| Binary Trees | Check if a Binary Tree contains duplicate subtrees of size 2 or more [ IMP ]      |                                                    <->                                                     |
+| Binary Trees | Check if 2 trees are mirror or not                                                |                                                    <->                                                     |
+| Binary Trees | Sum of Nodes on the Longest path from root to leaf node                           |                                                    <->                                                     |
+| Binary Trees | Check if given graph is tree or not. [ IMP ]                                      |                                                    <->                                                     |
+| Binary Trees | Find Largest subtree sum in a tree                                                |                                                    <->                                                     |
+| Binary Trees | Maximum Sum of nodes in Binary tree such that no two are adjacent                 |                                                    <->                                                     |
+| Binary Trees | Print all "K" Sum paths in a Binary tree                                          |                                                    <->                                                     |
+| Binary Trees | Find LCA in a Binary tree                                                         |                                                    <->                                                     |
+| Binary Trees | Find distance between 2 nodes in a Binary tree                                    |                                                    <->                                                     |
+| Binary Trees | Kth Ancestor of node in a Binary tree                                             |                                                    <->                                                     |
+| Binary Trees | Find all Duplicate subtrees in a Binary tree [ IMP ]                              |                                                    <->                                                     |
+| Binary Trees | Tree Isomorphism Problem                                                          |                                                    <->                                                     |
 
 </details>
 
