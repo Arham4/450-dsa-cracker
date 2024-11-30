@@ -201,44 +201,44 @@
 
 <summary><img id="linkedlist" src="https://img.shields.io/badge/Linked_List-36-blue?style=for-the-badge"></summary>
 
-|   Topic:   | Problem                                                                         | Solutions |
-| :--------: | ------------------------------------------------------------------------------- | :-------: |
-| LinkedList | Write a Program to reverse the Linked List. (Both Iterative and recursive)      |    <->    |
-| LinkedList | Reverse a Linked List in group of Given Size. [Very Imp]                        |    <->    |
-| LinkedList | Write a program to Detect loop in a linked list.                                |    <->    |
-| LinkedList | Write a program to Delete loop in a linked list.                                |    <->    |
-| LinkedList | Find the starting point of the loop.                                            |    <->    |
-| LinkedList | Remove Duplicates in a sorted Linked List.                                      |    <->    |
-| LinkedList | Remove Duplicates in a Un-sorted Linked List.                                   |    <->    |
-| LinkedList | Write a Program to Move the last element to Front in a Linked List.             |    <->    |
-| LinkedList | Add “1” to a number represented as a Linked List.                               |    <->    |
-| LinkedList | Add two numbers represented by linked lists.                                    |    <->    |
-| LinkedList | Intersection of two Sorted Linked List.                                         |    <->    |
-| LinkedList | Intersection Point of two Linked Lists.                                         |    <->    |
-| LinkedList | Merge Sort For Linked lists.[Very Important]                                    |    <->    |
-| LinkedList | Quicksort for Linked Lists.[Very Important]                                     |    <->    |
-| LinkedList | Find the middle Element of a linked list.                                       |    <->    |
-| LinkedList | Check if a linked list is a circular linked list.                               |    <->    |
-| LinkedList | Split a Circular linked list into two halves.                                   |    <->    |
-| LinkedList | Write a Program to check whether the Singly Linked list is a palindrome or not. |    <->    |
-| LinkedList | Deletion from a Circular Linked List.                                           |    <->    |
-| LinkedList | Reverse a Doubly Linked list.                                                   |    <->    |
-| LinkedList | Find pairs with a given sum in a DLL.                                           |    <->    |
-| LinkedList | Count triplets in a sorted DLL whose sum is equal to given value “X”.           |    <->    |
-| LinkedList | Sort a “k”sorted Doubly Linked list.[Very IMP]                                  |    <->    |
-| LinkedList | Rotate DoublyLinked list by N nodes.                                            |    <->    |
-| LinkedList | Rotate a Doubly Linked list in group of Given Size.[Very IMP]                   |    <->    |
-| LinkedList | Can we reverse a linked list in less than O(n) ?                                |    <->    |
-| LinkedList | Why Quicksort is preferred for. Arrays and Merge Sort for LinkedLists ?         |    <->    |
-| LinkedList | Flatten a Linked List                                                           |    <->    |
-| LinkedList | Sort a LL of 0's, 1's and 2's                                                   |    <->    |
-| LinkedList | Clone a linked list with next and random pointer                                |    <->    |
-| LinkedList | Merge K sorted Linked list                                                      |    <->    |
-| LinkedList | Multiply 2 no. represented by LL                                                |    <->    |
-| LinkedList | Delete nodes which have a greater value on right side                           |    <->    |
-| LinkedList | Segregate even and odd nodes in a Linked List                                   |    <->    |
-| LinkedList | Program for n’th node from the end of a Linked List                             |    <->    |
-| LinkedList | Find the first non-repeating character from a stream of characters              |    <->    |
+|   Topic:   | Problem                                                                                      |                                                     Solutions                                                     |
+| :--------: | -------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------: |
+| LinkedList | Write a Program to reverse the Linked List. (Both Iterative and recursive)                   |                                                        <->                                                        |
+| LinkedList | Reverse a Linked List in group of Given Size. [Very Imp]                                     |                                                        <->                                                        |
+| LinkedList | Write a program to Detect loop in a linked list.                                             |                                                        <->                                                        |
+| LinkedList | Write a program to Delete loop in a linked list.                                             |                                                        <->                                                        |
+| LinkedList | Find the starting point of the loop.                                                         |                                                        <->                                                        |
+| LinkedList | Remove Duplicates in a sorted Linked List.                                                   |                                                        <->                                                        |
+| LinkedList | Remove Duplicates in a Un-sorted Linked List.                                                |                                                        <->                                                        |
+| LinkedList | Write a Program to Move the last element to Front in a Linked List.                          |                                                        <->                                                        |
+| LinkedList | Add “1” to a number represented as a Linked List.                                            |                                                        <->                                                        |
+| LinkedList | Add two numbers represented by linked lists.                                                 |                                                        <->                                                        |
+| LinkedList | Intersection of two Sorted Linked List.                                                      |                                                        <->                                                        |
+| LinkedList | Intersection Point of two Linked Lists.                                                      |                                                        <->                                                        |
+| LinkedList | Merge Sort For Linked lists.[Very Important]                                                 |                                                        <->                                                        |
+| LinkedList | Quicksort for Linked Lists.[Very Important]                                                  |                                                        <->                                                        |
+| LinkedList | Find the middle Element of a linked list.                                                    |                                                        <->                                                        |
+| LinkedList | Check if a linked list is a circular linked list.                                            |                                                        <->                                                        |
+| LinkedList | Split a Circular linked list into two halves.                                                |                                                        <->                                                        |
+| LinkedList | Write a Program to check whether the Singly Linked list is a palindrome or not.              |                                                        <->                                                        |
+| LinkedList | Deletion from a Circular Linked List.                                                        |                                                        <->                                                        |
+| LinkedList | [Reverse a Doubly Linked list.](https://www.geeksforgeeks.org/reverse-a-doubly-linked-list/) | [![](https://img.shields.io/badge/Solution-green)](./05-LinkedList/linkedlist_20_Reverse_a_Doubly_Linked_list.py) |
+| LinkedList | Find pairs with a given sum in a DLL.                                                        |                                                        <->                                                        |
+| LinkedList | Count triplets in a sorted DLL whose sum is equal to given value “X”.                        |                                                        <->                                                        |
+| LinkedList | Sort a “k”sorted Doubly Linked list.[Very IMP]                                               |                                                        <->                                                        |
+| LinkedList | Rotate DoublyLinked list by N nodes.                                                         |                                                        <->                                                        |
+| LinkedList | Rotate a Doubly Linked list in group of Given Size.[Very IMP]                                |                                                        <->                                                        |
+| LinkedList | Can we reverse a linked list in less than O(n) ?                                             |                                                        <->                                                        |
+| LinkedList | Why Quicksort is preferred for. Arrays and Merge Sort for LinkedLists ?                      |                                                        <->                                                        |
+| LinkedList | Flatten a Linked List                                                                        |                                                        <->                                                        |
+| LinkedList | Sort a LL of 0's, 1's and 2's                                                                |                                                        <->                                                        |
+| LinkedList | Clone a linked list with next and random pointer                                             |                                                        <->                                                        |
+| LinkedList | Merge K sorted Linked list                                                                   |                                                        <->                                                        |
+| LinkedList | Multiply 2 no. represented by LL                                                             |                                                        <->                                                        |
+| LinkedList | Delete nodes which have a greater value on right side                                        |                                                        <->                                                        |
+| LinkedList | Segregate even and odd nodes in a Linked List                                                |                                                        <->                                                        |
+| LinkedList | Program for n’th node from the end of a Linked List                                          |                                                        <->                                                        |
+| LinkedList | Find the first non-repeating character from a stream of characters                           |                                                        <->                                                        |
 
 </details>
 
