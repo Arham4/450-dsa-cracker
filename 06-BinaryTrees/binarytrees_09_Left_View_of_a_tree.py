@@ -1,3 +1,5 @@
+import collections
+
 def LeftView(self, root):
     level = 1
     queue = collections.deque([(root, level)])
