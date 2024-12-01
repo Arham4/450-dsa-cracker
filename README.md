@@ -294,30 +294,30 @@
 
 <summary><img id="bst" src="https://img.shields.io/badge/Binary_Search_Trees-22-yellowgreen?style=for-the-badge"></summary>
 
-|       Topic:        | Problem                                                           | Solutions |
-| :-----------------: | ----------------------------------------------------------------- | :-------: |
-| Binary Search Trees | Fina a value in a BST                                             |    <->    |
-| Binary Search Trees | Deletion of a node in a BST                                       |    <->    |
-| Binary Search Trees | Find min and max value in a BST                                   |    <->    |
-| Binary Search Trees | Find inorder successor and inorder predecessor in a BST           |    <->    |
-| Binary Search Trees | Check if a tree is a BST or not                                   |    <->    |
-| Binary Search Trees | Populate Inorder successor of all nodes                           |    <->    |
-| Binary Search Trees | Find LCA of 2 nodes in a BST                                      |    <->    |
-| Binary Search Trees | Construct BST from preorder traversal                             |    <->    |
-| Binary Search Trees | Convert Binary tree into BST                                      |    <->    |
-| Binary Search Trees | Convert a normal BST into a Balanced BST                          |    <->    |
-| Binary Search Trees | Merge two BST [ V.V.V>IMP ]                                       |    <->    |
-| Binary Search Trees | Find Kth largest element in a BST                                 |    <->    |
-| Binary Search Trees | Find Kth smallest element in a BST                                |    <->    |
-| Binary Search Trees | Count pairs from 2 BST whose sum is equal to given value "X"      |    <->    |
-| Binary Search Trees | Find the median of BST in O(n) time and O(1) space                |    <->    |
-| Binary Search Trees | Count BST ndoes that lie in a given range                         |    <->    |
-| Binary Search Trees | Replace every element with the least greater element on its right |    <->    |
-| Binary Search Trees | Given "n" appointments, find the conflicting appointments         |    <->    |
-| Binary Search Trees | Check preorder is valid or not                                    |    <->    |
-| Binary Search Trees | Check whether BST contains Dead end                               |    <->    |
-| Binary Search Trees | Largest BST in a Binary Tree [ V.V.V.V.V IMP ]                    |    <->    |
-| Binary Search Trees | Flatten BST to sorted list                                        |    <->    |
+|       Topic:        | Problem                                                                                                |                                                        Solutions                                                         |
+| :-----------------: | ------------------------------------------------------------------------------------------------------ | :----------------------------------------------------------------------------------------------------------------------: |
+| Binary Search Trees | [Find a value in a BST](https://www.geeksforgeeks.org/binary-search-tree-set-1-search-and-insertion/#) | [![](https://img.shields.io/badge/Solution-green)](./07-BinarySearchTrees/binarysearchtrees_01_Find_a_value_in_a_BST.py) |
+| Binary Search Trees | Deletion of a node in a BST                                                                            |                                                           <->                                                            |
+| Binary Search Trees | Find min and max value in a BST                                                                        |                                                           <->                                                            |
+| Binary Search Trees | Find inorder successor and inorder predecessor in a BST                                                |                                                           <->                                                            |
+| Binary Search Trees | Check if a tree is a BST or not                                                                        |                                                           <->                                                            |
+| Binary Search Trees | Populate Inorder successor of all nodes                                                                |                                                           <->                                                            |
+| Binary Search Trees | Find LCA of 2 nodes in a BST                                                                           |                                                           <->                                                            |
+| Binary Search Trees | Construct BST from preorder traversal                                                                  |                                                           <->                                                            |
+| Binary Search Trees | Convert Binary tree into BST                                                                           |                                                           <->                                                            |
+| Binary Search Trees | Convert a normal BST into a Balanced BST                                                               |                                                           <->                                                            |
+| Binary Search Trees | Merge two BST [ V.V.V>IMP ]                                                                            |                                                           <->                                                            |
+| Binary Search Trees | Find Kth largest element in a BST                                                                      |                                                           <->                                                            |
+| Binary Search Trees | Find Kth smallest element in a BST                                                                     |                                                           <->                                                            |
+| Binary Search Trees | Count pairs from 2 BST whose sum is equal to given value "X"                                           |                                                           <->                                                            |
+| Binary Search Trees | Find the median of BST in O(n) time and O(1) space                                                     |                                                           <->                                                            |
+| Binary Search Trees | Count BST ndoes that lie in a given range                                                              |                                                           <->                                                            |
+| Binary Search Trees | Replace every element with the least greater element on its right                                      |                                                           <->                                                            |
+| Binary Search Trees | Given "n" appointments, find the conflicting appointments                                              |                                                           <->                                                            |
+| Binary Search Trees | Check preorder is valid or not                                                                         |                                                           <->                                                            |
+| Binary Search Trees | Check whether BST contains Dead end                                                                    |                                                           <->                                                            |
+| Binary Search Trees | Largest BST in a Binary Tree [ V.V.V.V.V IMP ]                                                         |                                                           <->                                                            |
+| Binary Search Trees | Flatten BST to sorted list                                                                             |                                                           <->                                                            |
 
 </details>
 
