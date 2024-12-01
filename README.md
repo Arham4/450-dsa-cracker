@@ -327,43 +327,43 @@
 
 <summary><img id="greedy" src="https://img.shields.io/badge/Greedy-35-green?style=for-the-badge"> </summary>
 
-| Topic: | Problem                                                                                 | Solutions |
-| :----: | --------------------------------------------------------------------------------------- | :-------: |
-| Greedy | Activity Selection Problem                                                              |    <->    |
-| Greedy | Job SequencingProblem                                                                   |    <->    |
-| Greedy | Huffman Coding                                                                          |    <->    |
-| Greedy | Water Connection Problem                                                                |    <->    |
-| Greedy | Fractional Knapsack Problem                                                             |    <->    |
-| Greedy | Greedy Algorithm to find Minimum number of Coins                                        |    <->    |
-| Greedy | Maximum trains for which stoppage can be provided                                       |    <->    |
-| Greedy | Minimum Platforms Problem                                                               |    <->    |
-| Greedy | Buy Maximum Stocks if i stocks can be bought on i-th day                                |    <->    |
-| Greedy | Find the minimum and maximum amount to buy all N candies                                |    <->    |
-| Greedy | Minimize Cash Flow among a given set of friends who have borrowed money from each other |    <->    |
-| Greedy | Minimum Cost to cut a board into squares                                                |    <->    |
-| Greedy | Check if it is possible to survive on Island                                            |    <->    |
-| Greedy | Find maximum meetings in one room                                                       |    <->    |
-| Greedy | Maximum product subset of an array                                                      |    <->    |
-| Greedy | Maximize array sum after K negations                                                    |    <->    |
-| Greedy | Maximize the sum of arr[i]\*i                                                           |    <->    |
-| Greedy | Maximum sum of absolute difference of an array                                          |    <->    |
-| Greedy | Maximize sum of consecutive differences in a circular array                             |    <->    |
-| Greedy | Minimum sum of absolute difference of pairs of two arrays                               |    <->    |
-| Greedy | Program for Shortest Job First (or SJF) CPU Scheduling                                  |    <->    |
-| Greedy | Program for Least Recently Used (LRU) Page Replacement algorithm                        |    <->    |
-| Greedy | Smallest subset with sum greater than all other elements                                |    <->    |
-| Greedy | Chocolate Distribution Problem                                                          |    <->    |
-| Greedy | DEFKIN -Defense of a Kingdom                                                            |    <->    |
-| Greedy | DIEHARD -DIE HARD                                                                       |    <->    |
-| Greedy | GERGOVIA -Wine trading in Gergovia                                                      |    <->    |
-| Greedy | Picking Up Chicks                                                                       |    <->    |
-| Greedy | CHOCOLA –Chocolate                                                                      |    <->    |
-| Greedy | ARRANGE -Arranging Amplifiers                                                           |    <->    |
-| Greedy | K Centers Problem                                                                       |    <->    |
-| Greedy | Minimum Cost of ropes                                                                   |    <->    |
-| Greedy | Find smallest number with given number of digits and sum of digits                      |    <->    |
-| Greedy | Rearrange characters in a string such that no two adjacent are same                     |    <->    |
-| Greedy | Find maximum sum possible equal sum of three stacks                                     |    <->    |
+| Topic: | Problem                                                                                                    |                                                                Solutions                                                                |
+| :----: | ---------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------: |
+| Greedy | Activity Selection Problem                                                                                 |                                                                   <->                                                                   |
+| Greedy | Job SequencingProblem                                                                                      |                                                                   <->                                                                   |
+| Greedy | Huffman Coding                                                                                             |                                                                   <->                                                                   |
+| Greedy | Water Connection Problem                                                                                   |                                                                   <->                                                                   |
+| Greedy | Fractional Knapsack Problem                                                                                |                                                                   <->                                                                   |
+| Greedy | Greedy Algorithm to find Minimum number of Coins                                                           |                                                                   <->                                                                   |
+| Greedy | Maximum trains for which stoppage can be provided                                                          |                                                                   <->                                                                   |
+| Greedy | Minimum Platforms Problem                                                                                  |                                                                   <->                                                                   |
+| Greedy | Buy Maximum Stocks if i stocks can be bought on i-th day                                                   |                                                                   <->                                                                   |
+| Greedy | Find the minimum and maximum amount to buy all N candies                                                   |                                                                   <->                                                                   |
+| Greedy | Minimize Cash Flow among a given set of friends who have borrowed money from each other                    |                                                                   <->                                                                   |
+| Greedy | Minimum Cost to cut a board into squares                                                                   |                                                                   <->                                                                   |
+| Greedy | Check if it is possible to survive on Island                                                               |                                                                   <->                                                                   |
+| Greedy | Find maximum meetings in one room                                                                          |                                                                   <->                                                                   |
+| Greedy | Maximum product subset of an array                                                                         |                                                                   <->                                                                   |
+| Greedy | Maximize array sum after K negations                                                                       |                                                                   <->                                                                   |
+| Greedy | Maximize the sum of arr[i]\*i                                                                              |                                                                   <->                                                                   |
+| Greedy | Maximum sum of absolute difference of an array                                                             |                                                                   <->                                                                   |
+| Greedy | [Maximize sum of consecutive differences in a circular array](https://www.youtube.com/watch?v=DEgeMz4RF1Q) | [![](https://img.shields.io/badge/Solution-green)](./08-Greedy/greedy_19_Maximum_sum_of_consecutive_differences_in_a_circular_array.py) |
+| Greedy | Minimum sum of absolute difference of pairs of two arrays                                                  |                                                                   <->                                                                   |
+| Greedy | Program for Shortest Job First (or SJF) CPU Scheduling                                                     |                                                                   <->                                                                   |
+| Greedy | Program for Least Recently Used (LRU) Page Replacement algorithm                                           |                                                                   <->                                                                   |
+| Greedy | Smallest subset with sum greater than all other elements                                                   |                                                                   <->                                                                   |
+| Greedy | Chocolate Distribution Problem                                                                             |                                                                   <->                                                                   |
+| Greedy | DEFKIN -Defense of a Kingdom                                                                               |                                                                   <->                                                                   |
+| Greedy | DIEHARD -DIE HARD                                                                                          |                                                                   <->                                                                   |
+| Greedy | GERGOVIA -Wine trading in Gergovia                                                                         |                                                                   <->                                                                   |
+| Greedy | Picking Up Chicks                                                                                          |                                                                   <->                                                                   |
+| Greedy | CHOCOLA –Chocolate                                                                                         |                                                                   <->                                                                   |
+| Greedy | ARRANGE -Arranging Amplifiers                                                                              |                                                                   <->                                                                   |
+| Greedy | K Centers Problem                                                                                          |                                                                   <->                                                                   |
+| Greedy | Minimum Cost of ropes                                                                                      |                                                                   <->                                                                   |
+| Greedy | Find smallest number with given number of digits and sum of digits                                         |                                                                   <->                                                                   |
+| Greedy | Rearrange characters in a string such that no two adjacent are same                                        |                                                                   <->                                                                   |
+| Greedy | Find maximum sum possible equal sum of three stacks                                                        |                                                                   <->                                                                   |
 
 </details>
 
